@@ -40,10 +40,10 @@ Overall, I have improved my knowledge of responsive design and flex-box.
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a DevChallenges challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@Leambr](https://{https://github.com/Leambr})
+- GitHub [@Leambr](https://{github.com/Leambr})
