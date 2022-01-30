@@ -46,4 +46,4 @@ This application/site was created as a submission to a DevChallenges challenge. 
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@Leambr](https://{github.com/Leambr})
+- GitHub [@Leambr](https://github.com/Leambr)
