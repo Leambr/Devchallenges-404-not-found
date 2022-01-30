@@ -1,5 +1,3 @@
-# 404-not-found | Devchallenges
-
 <h1 align="center">404 not found by Léa Mhoumadi</h1>
 
 <div align="center">
