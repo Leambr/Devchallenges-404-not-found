@@ -66,7 +66,7 @@ footer p {
 .col-left {
     position: relative;
     padding-right: 10%;
-    padding-bottom: 150px;
+    padding-bottom: 130px;
     flex-basis: 40%;
 }
 
@@ -109,7 +109,12 @@ button {
     height: 68px;
     border: none;
     background: #333333;
-    color: #fff
+}
+
+button a {
+    text-decoration: none;
+    background: none;
+    color: #fff;
 }
 
 /* Small screens */
