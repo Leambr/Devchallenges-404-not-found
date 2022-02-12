@@ -48,6 +48,12 @@ Overall, I have improved my knowledge of responsive design and flex-box.
 
 This application/site was created as a submission to a DevChallenges challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
+## Author
+
+<i>I am currently in my first year of web development learning, so any feedback to improve my code is more than welcome! </i>
+
+Designed with love - by [Léa M.](https://github.com/Leambr)
+
 
 ## Contact
 
