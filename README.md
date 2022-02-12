@@ -21,8 +21,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
 - [Built With](#built-with)
+- [Features](#features)
 - [Author](#author)
 - [Contact](#contact)
 
