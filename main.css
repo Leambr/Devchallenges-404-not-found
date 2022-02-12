@@ -59,14 +59,14 @@ footer p {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    padding-top: 265px;
+    padding-top: 100px;
     padding-right: 119px;
 }
 
 .col-left {
     position: relative;
     padding-right: 10%;
-    padding-bottom: 367px;
+    padding-bottom: 120px;
     flex-basis: 40%;
 }
 
