@@ -102,6 +102,12 @@ footer p {
     width: 45%
 }
 
+button a {
+    text-decoration: none;
+    background: none;
+    color: #fff;
+}
+
 button {
     font-weight: 700;  
     text-transform: uppercase;
@@ -111,11 +117,6 @@ button {
     background: #333333;
 }
 
-button a {
-    text-decoration: none;
-    background: none;
-    color: #fff;
-}
 
 /* Small screens */
 
