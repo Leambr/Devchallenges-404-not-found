@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href=""> 
+    <a href="https://leambr.github.io/Devchallenges-404-not-found/"> 
       Live Demo
     </a>
     <span> | </span>
@@ -50,9 +50,10 @@ This application/site was created as a submission to a DevChallenges challenge. 
 <i>I am currently in my first year of web development learning, so any feedback to improve my code is more than welcome!</i>
 I made the page responsive for small screens as well.
 
-Designed with love - by [Léa M.](https://github.com/Leambr)
+Designed with love - by [Léa Mhoumadi](https://github.com/Leambr)
 
 
 ## Contact
 
 - GitHub [@Leambr](https://github.com/Leambr)
+- LinkedIn [Léa Mhoumadi](https://www.linkedin.com/in/lea-mhoumadi)
