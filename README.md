@@ -37,6 +37,11 @@
 This project enabled me to practice %, px and em in order to create a resposive page. It was also the opportunity to work directly from a design created on Figma.
 Overall, I have improved my knowledge of responsive design and flex-box.
 
+### Built With
+
+- [HTML 5](https://en.wikipedia.org/wiki/HTML) - Layout and web structure
+- [CSS 3](https://en.wikipedia.org/wiki/CSS) - Style design
+
 
 ## Features
 
@@ -45,5 +50,4 @@ This application/site was created as a submission to a DevChallenges challenge. 
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@Leambr](https://github.com/Leambr)
