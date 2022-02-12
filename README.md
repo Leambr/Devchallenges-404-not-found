@@ -32,8 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/95865130/151702623-1bbf532d-ac6f-4dcf-b160-acc7593ad86a.png)
 
-This project enabled me to practice %, px and em in order to create a resposive page. It was also the opportunity to work directly from a design created on Figma.
-Overall, I have improved my knowledge of responsive design and flex-box.
+This project enabled me to practice responsive design and flexbox. It was also the opportunity to work directly from a design created on Figma.
 
 ### Built With
 
