@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://leambr.github.io/Devchallenges-404-not-found/"> 
+    <a href=""> 
       Live Demo
     </a>
     <span> | </span>
